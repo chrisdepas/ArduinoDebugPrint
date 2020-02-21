@@ -1,0 +1,12 @@
+{
+  "name": "DebugPrint",
+  "keywords": "debug, printf",
+  "description": "A simple debug print library using Libprintf",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/chrisdepas/ArduinoDebugPrint.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
